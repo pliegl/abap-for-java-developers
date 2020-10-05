@@ -1,4 +1,4 @@
-package com.ecosio.functiongroup;
+package functiongroup;
 
 import java.util.LinkedList;
 import java.util.List;
